@@ -36,7 +36,7 @@ main.py          → Orchestrates the full pipeline end-to-end
 
 ## 📁 Data Sources
 
-[](https://github.com/Robin6551/retail-etl-project/blob/main/README.md#-data-sources)
+[](https://github.com/Temichoo1/retail-sales-etl-pipeline/tree/main)
 
 |File|Description|
 |---|---|
@@ -48,7 +48,6 @@ main.py          → Orchestrates the full pipeline end-to-end
 
 ## ⚙️ Tech Stack
 
-[](https://github.com/Robin6551/retail-etl-project/blob/main/README.md#️-tech-stack)
 
 - **Python** — core pipeline logic
 - **Pandas** — data extraction and transformation
@@ -59,7 +58,7 @@ main.py          → Orchestrates the full pipeline end-to-end
 
 ## 🗄️ Data Warehouse Schema (Star Schema)
 
-[](https://github.com/Robin6551/retail-etl-project/blob/main/README.md#️-data-warehouse-schema-star-schema)
+[](https://github.com/Temichoo1/retail-sales-etl-pipeline/blob/main/README.md)
 
 **Fact Table:**
 
