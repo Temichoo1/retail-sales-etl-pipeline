@@ -30,7 +30,7 @@ def transform_data(features_df, sales_df,stores_df):
       fact_sales = sales_df.copy()
       
       def normalise(df):
-          df.columns = df.columns.str.lower().str.replace('', '_')
+          df.columns = df.columns.str.lower()#.str.replace('', '_')
           return df
       dim_date = normalise(dim_date)
       dim_feature = normalise(dim_feature)
